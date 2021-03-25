@@ -18,20 +18,24 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Evolutionary biology
-- Infectious diseases
+- Evolutionary biology of AMR
+- Horizontal gene transfer
+- Mobile genetic elements
+- Multi-level selection
+- Bioinformatics
+- Mathematical modelling
 - Science communication
 
 # Education to show in About widget
 education:
   courses:
-  - course: DPhil (PhD) in Interdisciplinary biosciences
+  - course: DPhil (PhD) in Interdisciplinary bioscience
     institution: University of Oxford, Oxford, United Kingdom
     year: 2020
-  - course: Diplome d'Ingénieur (Master of Engineering) Specialisation Biology at the interfaces
+  - course: Diplome d'Ingénieur (Master of Engineering) - Biology at the interfaces
     institution: Ecole polytechnique, Palaiseau, France
     year: 2015
-  - course: Classe préparatoire PC/PCSI Undergraduate studies in mathematics, physic and chemistry
+  - course: Undergraduate studies in Physics & Chemistry
     institution: Lycée Sainte-Geneviève, Versailles, France
     year: 2012
 
@@ -67,6 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Test
+I am a French evolutionary biologist & microbiologist, currently doing a post-doc at the University of Oxford in the group of <a href='https://macleanlab.wordpress.com/'> Craig MacLean </a>. My research focuses on the evolution of antimicrobial resistance (AMR), and notably the involvement of mobile genetic elements and horizontal gene transfer in the spread and maintenance of resistance genes. After a PhD focusing on unraveling the evolutionary dynamics of an important driver of antimicrobial resistance, the integron, I am now working on the impact of the colistin ban in agriculture on resistance in China. Engineer turned wet-lab scientist, I like to combine a variety of approaches to tackle these questions, going from phenotypic assays to genomics and computer simulations. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Alongside AMR, I have a broad interest in public health and infectious diseases, and especially where they intersect with evolutionary biology. From clonal interfence to mutation supply, the recent pandemic has definitely shown that important concepts in evolution and population biology can directly impact our everyday life. 
+
+I am also very passionate about science communication, from writing about <a href= 'https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647' the differences between antibiotic and vaccine resistance </a> to developing <a href='http://drugs-vs-bugs.com/#/'> boardgames about antibiotic resistance </a>
