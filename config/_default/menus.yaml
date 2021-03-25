@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name:  <font size="+2">Home</font>
+  - name:  <font size="+1">Home</font>
     url: '#about'
     weight: 10
-  - name: Research
+  - name: <font size="+1">Research</font>
     url: '/research'
     weight: 20
-  - name: Publications
+  - name: <font size="+1">Publications</font>
     url: '/publication'
     weight: 30
-  - name: Scicomm
-    url: '#talks'
+  - name: <font size="+1">Scicomm</font>
+    url: '/scicomm'
     weight: 40
-  - name: CV
+  - name: <font size="+1">CV</font>
     url: '/CV'
     weight: 50
-  - name: Contact
+  - name: <font size="+1">Contact</font>
     url: '/contact'
     weight: 60
 
