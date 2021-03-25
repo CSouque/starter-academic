@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: ocean
-day_night: true
-font: ''
+theme: 1950s
+day_night: false
+font: 'Classic'
 font_size: m
 
 # SEO
