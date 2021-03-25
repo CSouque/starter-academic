@@ -31,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://elifesciences.org/articles/62474"
+url: "elifesciences.org/articles/62474"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
