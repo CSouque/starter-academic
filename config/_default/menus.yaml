@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#projects'
     weight: 30
-  - name: Science communication
+  - name: Scicomm
     url: '#talks'
     weight: 40
   - name: CV
