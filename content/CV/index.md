@@ -1,5 +1,5 @@
 ---
-title: Research
+title: CV
 summary: Description of past and current research
 date: "2018-06-28T00:00:00Z"
 
@@ -9,5 +9,5 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-
-Test
+View my CV as a pdf by following this link:
+{{< cta cta_text="CV as pdf" cta_link="/" cta_new_tab="false" >}}
