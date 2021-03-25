@@ -28,7 +28,7 @@ education:
   - course: DPhil (PhD) in Interdisciplinary biosciences
     institution: University of Oxford, Oxford, United Kingdom
     year: 2020
-  - course: Diplôme d'Ingénieur (Master of Engineering) - Specialisation: Biology at the interfaces
+  - course: Diplome d'Ingénieur (Master of Engineering) - Specialisation: Biology at the interfaces
     institution: Ecole polytechnique, Palaiseau, France
     year: 2015
   - course: <i> Classe préparatoire </i> PC/PCSI - Undergraduate studies in mathematics, physic and chemistry
