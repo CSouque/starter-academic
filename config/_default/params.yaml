@@ -7,8 +7,8 @@
 
 theme: rose_adapted
 day_night: false
-font: 'Rose'
-font_size: m
+font: ''
+font_size: s
 
 # SEO
 
