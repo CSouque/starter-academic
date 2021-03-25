@@ -11,16 +11,16 @@ main:
     url: '/research'
     weight: 20
   - name: Publications
-    url: '#projects'
+    url: '/publication'
     weight: 30
   - name: Scicomm
     url: '#talks'
     weight: 40
   - name: CV
-    url: '#featured'
+    url: '/CV'
     weight: 50
   - name: Contact
-    url: '#contact'
+    url: '/contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
