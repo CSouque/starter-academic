@@ -17,7 +17,7 @@ main:
     url: '/scicomm'
     weight: 40
   - name: <font size="+1">CV</font>
-    url: 'Celia Souque -CV2021.pdf'
+    url: 'CeliaSouqueCV2021.pdf'
     weight: 50
   - name: <font size="+1">Contact</font>
     url: '/contact'
