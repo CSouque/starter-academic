@@ -7,15 +7,15 @@ main:
   - name:  <font size="+1">Home</font>
     url: '#about'
     weight: 10
-  - name: <font size="+1">Research</font>
-    url: '/research'
-    weight: 20
+  #- name: <font size="+1">Research</font>
+   # url: '/research'
+    #weight: 20
   - name: <font size="+1">Publications</font>
     url: '/publications'
     weight: 30
-  - name: <font size="+1">Scicomm</font>
-    url: '/scicomm'
-    weight: 40
+  #- name: <font size="+1">Scicomm</font>
+  #  url: '/scicomm'
+  #  weight: 40
   - name: <font size="+1">CV</font>
     url: '/CeliaSouqueCV2021.pdf'
     weight: 50
