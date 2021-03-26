@@ -15,3 +15,4 @@ comments: false  # Show comments?
 
 - Weiner A, Mellouk N, Lopez-Montero N, Chang Y-Y, **Souque C**, Schmitt C, et al. Macropinosomes are Key Players in Early Shigella Invasion and Vacuolar Escape in Epithelial Cells. **PLoS Pathog**  (2016) 12(5): e1005602. <a href=https://doi.org/10.1371/journal.ppat.1005602>https://doi.org/10.1371/journal.ppat.1005602</a>
 
+{{< figure src="plenty.jpg">}}
