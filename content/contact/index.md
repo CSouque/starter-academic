@@ -10,14 +10,14 @@ comments: false  # Show comments?
 
 ---
 
-You can contact me at celia.souque [at] zoo.ox.ac.uk.
+You can contact me at celia_souque [at] hms.harvard.edu
 
 Postal address: <br>
 Dr Célia Souque <br>
-University of Oxford <br>
-Department of Zoology <br>
-Zoology Research and Administration Building <br>
-11a Mansfield Road <br>
-Oxford OX1 3SZ <br>
+LSP <br>
+Warren Alpert 110<br>
+Harvard Medical School <br>
+200 Longwood Ave<br>
+Boston MA 02115<br>
 
-Don't hesitate to follow me on <a href= https://twitter.com/Celia_Sqe> Twitter </a> or find me on our <a href=https://www.zoo.ox.ac.uk/people/dr-celia-souque#/> Departmental website</a>
+Don't hesitate to follow me on <a href= https://twitter.com/Celia_Sqe> Twitter </a> or find me on our <a href=https://dbmi.hms.harvard.edu/people/celia-souque> Departmental website</a>
