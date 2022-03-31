@@ -27,5 +27,6 @@ comments: false  # Show comments?
 - <a href= https://microbiologysociety.org/blog/bugs-vs-drugs-an- antimicrobial-resistance-board-game.html> ‘Drugs vs Bugs’: an antimicrobial resistance board game </a>– Blog post for the Microbiology society
 - <a href= https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines- 152647>‘Why resistance is common in antibiotics, but rare in vaccines’</a> - article for The Conversation
 - <a href=https://theconversation.com/bacteria-shuffle-their-genetics-around-to-develop-antibiotic-resistance-on-demand-156439> 'Bacteria ‘shuffle’ their genetics around to develop antibiotic resistance on demand' </a> - article for the Conversation
-- 
+
+
 {{< figure src="plenty.jpg">}}
