@@ -6,12 +6,12 @@ title: Célia Souque
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oxford - Department of Zoology
-  url: https://www.zoo.ox.ac.uk/#/
+- name: Harvard Medical School - Department of Biomedical Informatics & Laboratory of Systems Pharmacology
+  url: https://baymlab.hms.harvard.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -21,9 +21,7 @@ interests:
 - Evolutionary biology of AMR
 - Horizontal gene transfer
 - Mobile genetic elements
-- Multi-level selection
 - Bioinformatics
-- Mathematical modelling
 - Science communication
 
 # Education to show in About widget
@@ -71,8 +69,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a French evolutionary biologist & microbiologist, currently doing a post-doc at the University of Oxford in the group of <a href='https://macleanlab.wordpress.com/'> Craig MacLean </a>. My research focuses on the evolution of antimicrobial resistance (AMR), and notably the involvement of mobile genetic elements and horizontal gene transfer in the spread and maintenance of resistance genes. After a PhD focusing on unraveling the evolutionary dynamics of an important driver of antimicrobial resistance, the integron, I am now working on exploring the mechanisms behind the evolutionary success of the mobile colistin resistance gene mcr-1. Engineer turned wet-lab scientist, I like to combine a variety of approaches to tackle these questions, going from phenotypic assays to genomics and computer simulations. 
+I am a French evolutionary biologist & microbiologist, currently doing a postdoc at Harvard Medical School in the group of <a href='https://baymlab.hms.harvard.edu'> Michael Baym </a>. My research focuses on the evolution of antimicrobial resistance (AMR), and notably the involvement of mobile genetic elements and horizontal gene transfer in the spread and maintenance of resistance genes. After a PhD focusing on unraveling the evolutionary dynamics of an important driver of antimicrobial resistance, the integron, I did a short postdoc exploring the mechanisms behind the evolutionary success of the mobile colistin resistance gene mcr-1. Engineer turned wet-lab scientist, I like to combine a variety of approaches to tackle these questions, going from phenotypic assays to genomics and computer simulations. 
 
-Alongside AMR, I have a broad interest in public health and infectious diseases, and especially where they intersect with evolutionary biology. From clonal interfence to mutation supply, the recent pandemic has definitely shown that important concepts in evolution and population biology can directly impact our everyday life. 
+Alongside AMR, I have a broad interest in public health and infectious diseases, and especially where they intersect with evolutionary biology. From clonal interference to parallel evolution in variants, the recent pandemic has definitely shown that important concepts in evolution and population biology can directly impact our everyday life. 
 
-I am also passionate about science communication, from writing about <a href= 'https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647'> the differences between antibiotic and vaccine resistance </a> to developing <a href='http://drugs-vs-bugs.com/#/'> boardgames about antibiotic resistance! </a>
+I am also passionate about science communication, from writing about <a href= 'https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647'> AMR </a> to developing <a href='http://drugs-vs-bugs.com/#/'> boardgames about antibiotic resistance! </a>
